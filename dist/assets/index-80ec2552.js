@@ -1,0 +1,1 @@
+import{_ as e,k as c,l as t}from"./index-d44047d1.js";const n={},s={class:"rounded-lg flex justify-center p-4"};function o(r,_){return c(),t("div",s," jkhhjh ")}const d=e(n,[["render",o]]);export{d as default};
